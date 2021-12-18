@@ -9,7 +9,6 @@ function Login() {
 
   return (
     <div className="bg-black relative text-white">
-      <h1>Login screen</h1>
       <div className="flex flex-col absolute z-20 h-4/6 w-full items-center justify-center space-y-4">
         <Image
           className="object-cover rounded-full"
