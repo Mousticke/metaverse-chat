@@ -15,6 +15,7 @@ function Login() {
           src={avatar}
           height={200}
           width={200}
+          priority={true}
         />
         <button
           onClick={authenticate}
